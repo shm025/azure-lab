@@ -9,6 +9,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
+    'https://salim-django-lab-d2dwcrf3cfbxdvcr.francecentral-01.azurewebsites.net/',
 ]
 
 INSTALLED_APPS = [
